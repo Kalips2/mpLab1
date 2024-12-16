@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Обчислення рівняннь</string>
+
+    <string-array name="equation_types">
+        <item>ax + b = 0</item>
+        <item>ax^2 + bx + c = 0</item>
+        <item>ax^3 + bx^2 + d = 0 (бісекція)</item>
+        <item>ax^3 + bx^2 + d = 0 (хорд)</item>
+        <item>ax^3 + bx^2 + d = 0 (ітерацій)</item>
+    </string-array>
+</resources>

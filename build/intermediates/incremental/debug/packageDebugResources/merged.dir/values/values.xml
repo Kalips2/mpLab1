@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equation_types">
+        <item>ax + b = 0</item>
+        <item>ax^2 + bx + c = 0</item>
+        <item>ax^3 + bx^2 + d = 0 (бісекція)</item>
+        <item>ax^3 + bx^2 + d = 0 (хорд)</item>
+        <item>ax^3 + bx^2 + d = 0 (ітерацій)</item>
+    </string-array>
+    <color name="black">#DF343434</color>
+    <color name="main">#DF9CDBE4</color>
+    <string name="app_name">Обчислення рівняннь</string>
+    <style name="Theme.Lab1Mobile" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/main</item>
+    </style>
+</resources>

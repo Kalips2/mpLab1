@@ -1,0 +1,5 @@
+com.example.lab1mobile.test-jetified-core-1.6.1-0 C:\Users\User\.gradle\caches\transforms-4\601bcac4587a7bae25091a105fd3e30d\transformed\jetified-core-1.6.1\res
+com.example.lab1mobile.test-androidTest-1 C:\Users\User\StudioProjects\mp_lab1\build\generated\res\resValues\androidTest\debug
+com.example.lab1mobile.test-mergeDebugAndroidTestResources-2 C:\Users\User\StudioProjects\mp_lab1\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.lab1mobile.test-mergeDebugAndroidTestResources-3 C:\Users\User\StudioProjects\mp_lab1\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.lab1mobile.test-debugAndroidTest-4 C:\Users\User\StudioProjects\mp_lab1\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
